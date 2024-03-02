@@ -96,10 +96,10 @@
 				<div class="col-lg-6 text-center text-lg-start pe-lg-5">
 					<h1 class="heading text-white mb-3" data-aos="fade-up">Ini adalah demo website.</h1>
 					<p class="text-white mb-5" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis dignissimos unde, quas iusto ipsa repudiandae!</p>
-					<div class="align-items-center mb-5 mm" data-aos="fade-up" data-aos-delay="200">
-						<a href="contact.html" class="btn btn-outline-white-reverse me-4">Contact</a><br>
+					<div class="align-items-center mb-6 mm" data-aos="fade-up" data-aos-delay="200">
+						<a href="contact.html" class="btn btn-outline-white-reverse me-3">Contact</a><br><br>
 						<a href="https://www.youtube.com/watch?v=Mb1zrW_zra4" class="btn btn-outline-white-reverse">Penawaran Kami Melalui Youtube</a>
-					</div>
+					</div><br>
 				</div>
 				<div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
 					<div class="img-wrap">
