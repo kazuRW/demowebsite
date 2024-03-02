@@ -45,12 +45,12 @@
 			<div class="menu-bg-wrap">
 				<div class="site-navigation">
 					<div class="row g-0 align-items-center">
-						<div class="col-2">
-							<a href="index.html" class="logo m-0 float-start">Demo Website Halaman Contact<span class="text-primary">.</span></a>
+						<div class="col-5">
+							<a href="home" class="logo m-0 float-start">Demo Website Halaman Contact<span class="text-primary">.</span></a>
 						</div>
-						<div class="col-8 text-center ">
+						<div class="col-12 text-center ">
 							<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu mx-auto">
-								<li class="active"><a href="home">Home</a></li>
+								<li><a href="home">Home</a></li>
 								<li><a href="about">About</a></li>
 								<li class="has-children">
 									<a href="# noclick">Product</a>
@@ -71,16 +71,16 @@
 									</ul>
 								</li>
 								<li><a href="contact">Contact</a></li>
-							</ul>
-						</div>
-						<div class="col-2 text-end">
-							<a href="#" class="burger ms-auto float-end site-menu-toggle js-menu-toggle d-inline-block d-lg-none light">
-								<span></span>
-							</a>
-
-							<a href="#" class="call-us d-flex align-items-center">
+								<li><a href="#" class="call-us d-flex align-items-center">
 								<span class="icon-phone"></span>
 								<span>0895395850837</span>
+							</a></li>
+							</ul>
+						</div>
+						
+						<div class="row-5 text-end">
+							<a href="#" class="burger ms-auto float-end site-menu-toggle js-menu-toggle d-inline-block d-lg-none light">
+								<span></span>
 							</a>
 						</div>
 					</div>

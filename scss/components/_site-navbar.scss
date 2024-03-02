@@ -407,7 +407,7 @@
 }
 
 .sticky-wrapper {
-	position: absolute;
+	position: static;
 	z-index: 100;
 	width: 100%;
 	.site-navbar {
