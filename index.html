@@ -97,7 +97,7 @@
 					<h1 class="heading text-white mb-3" data-aos="fade-up">Ini adalah demo website.</h1>
 					<p class="text-white mb-5" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis dignissimos unde, quas iusto ipsa repudiandae!</p>
 					<div class="align-items-center mb-5 mm" data-aos="fade-up" data-aos-delay="200">
-						<a href="contact.html" class="btn btn-outline-white-reverse me-4">Contact</a>
+						<a href="contact.html" class="btn btn-outline-white-reverse me-4">Contact</a><br>
 						<a href="https://www.youtube.com/watch?v=Mb1zrW_zra4" class="btn btn-outline-white-reverse">Penawaran Kami Melalui Youtube</a>
 					</div>
 				</div>
