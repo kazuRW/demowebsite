@@ -46,7 +46,7 @@
 				<div class="site-navigation">
 					<div class="row g-0 align-items-center">
 						<div class="col-5">
-							<a href="home" class="logo m-0 float-start">Demo Website Halaman Contact<span class="text-primary">.</span></a>
+							<a href="home" class="logo m-0 float-start">Demo Website<span class="text-primary">.</span></a>
 						</div>
 						<div class="col-12 text-center ">
 							<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu mx-auto">
